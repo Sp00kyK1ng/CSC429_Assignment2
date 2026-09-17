@@ -1,3 +1,6 @@
 # CSC429_Assignment2
-Code Portion for Problems 1 and 2 in Assignment 2 
-I wrote all code in VS Code with Python extensions. The code should run and print results in the terminal of a VS code environment with Python extensions. 
+## Code Folder
+Contains the code portions for Problems 1 and 2, they are all .py files written inside of a VS code environment with Python extensions. They should run in that environment. Open the code folder and run main.py and it will print the answers to the problems.
+
+## PDF
+The PDF included contains the analysis and descriptions for problems 1 and 2 as well as the answers for problems 3, 4 and 5. 
